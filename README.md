@@ -10,6 +10,16 @@ The goal of the project is to find:
 
 ---
 
+## 📊 Dashboards  
+
+### Dashboard 1  
+![Dashboard 1](images/dashboard1.jpg)  
+
+### Dashboard 2  
+![Dashboard 2](images/dashboard2.jpg)  
+
+---
+
 ## 📊 Key Insights  
 
 1. *Gender Contribution*  
@@ -53,5 +63,3 @@ To increase sales, focus marketing efforts on:
 - (Optional: Python – Pandas, Matplotlib if extended)  
 
 ---
-
-## 📂 Project Files
