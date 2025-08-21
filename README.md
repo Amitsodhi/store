@@ -13,11 +13,11 @@ The goal of the project is to find:
 ## 📊 Dashboards  
 
 ### Dashboard 1  
-![Dashboard 1](https://drive.google.com/uc?export=view&id=10CJaN19rThL6za04AhAhmB194xmZsJPo)  
+
 
 
 ### Dashboard 2  
-![Dashboard 2](images/dashboard2.jpg)  
+![Dashboard 1](https://drive.google.com/uc?export=view&id=10CJaN19rThL6za04AhAhmB194xmZsJPo)  
 
 ---
 
