@@ -13,7 +13,7 @@ The goal of the project is to find:
 ## 📊 Dashboards  
 
 ### Dashboard 1  
-![Dashboard 1](https://drive.google.com/file/d/10CJaN19rThL6za04AhAhmB194xmZsJPo/view?usp=sharing) 
+![Dashboard 1](https://drive.google.com/file/d/1NwOiFEo57-vmLJpn6bP1Pc1UaI5pW46G/view?usp=sharing ) 
 
 
 ### Dashboard 2  
