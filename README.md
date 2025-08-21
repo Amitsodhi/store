@@ -10,7 +10,7 @@ The goal of the project is to find:
 
 ---
 
-## 📊 Dashboards  
+## ​ Dashboards  
 
 ### Dashboard 1  
 ![Dashboard 1](https://drive.google.com/uc?export=view&id=1NwOiFEo57-vmLJpn6bP1Pc1UaI5pW46G)  
