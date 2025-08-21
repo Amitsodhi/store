@@ -17,7 +17,7 @@ The goal of the project is to find:
 
 
 ### Dashboard 2  
-![Dashboard 1](https://drive.google.com/uc?export=view&id=10CJaN19rThL6za04AhAhmB194xmZsJPo)  
+![Dashboard 2](https://drive.google.com/uc?export=view&id=10CJaN19rThL6za04AhAhmB194xmZsJPo)  
 
 ---
 
